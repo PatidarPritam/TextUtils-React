@@ -1,3 +1,7 @@
+Created a text utilities project using HTML, CSS, JavaScript, and React to enhance text manipulation and
+formatting capabilities. Implemented various features to streamline text processing, demonstrating proficiency
+in web development and front-end technologies.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
